@@ -3,7 +3,7 @@
 **BAN 6003: Data Management and Analytics Integration**  
 **Week 11 GitHub Template**
 
-This repository contains the notebooks, data files, environment files, and local check scripts for this assignment package. Detailed lab instructions are provided in Canvas/LMS.
+This repository contains the notebook and output folder for this assignment package. Detailed lab instructions are provided in Canvas/LMS.
 
 ## Canvas / LMS Lab Guide
 
@@ -13,9 +13,18 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 
 - `notebooks/module11_abt_documentation_guided_lab.ipynb`
 
-## Required Files
+## Data and Outputs
 
 - No local data files are required.
+
+The notebook builds a demonstration ABT from `nycflights13`. Completed outputs belong in `outputs` and are not included in the template.
+
+Expected outputs:
+
+- `outputs/route_abt_module11.csv`
+- `outputs/route_abt_data_dictionary_module11.csv`
+- `outputs/route_abt_validation_checklist_module11.csv`
+- `outputs/route_abt_handoff_audit_module11.csv`
 
 ## How to Work
 
@@ -27,13 +36,6 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 6. Complete all `Your Turn`, exercise, checkpoint, and reflection sections.
 7. Save your notebooks and required outputs.
 8. Submit your GitHub repository link through Canvas.
-
-## Completion Check
-
-Your instructor may run a local completion and reproducibility check after submission. The check is designed to support the automatic portion of the lab grade. It verifies that required files exist, notebooks run when possible, marked code cells have real code, required output-producing cells have output after execution, and written response placeholders have been replaced.
-
-The check does not evaluate the quality of your interpretation. Your instructor may grade the remaining portion manually using the assignment rubric.
-
 
 ## Submit
 

@@ -1,9 +1,0 @@
-check,status,notes
-Unit of analysis is clearly defined,Complete,One row per origin-destination route
-Key columns are identified,Complete,origin + dest
-Duplicate entity rows checked,Complete,Checked with duplicated().sum()
-Missing values checked,Complete,Checked with isna().sum()
-Impossible or suspicious values reviewed,Complete,Reviewed basic numeric ranges
-Target variable reviewed,Complete,avg_arr_delay reviewed as possible target
-Data dictionary started,In progress,Example rows completed; project version should be completed fully
-Transformation summary written,In progress,Example provided; project version should be completed fully
