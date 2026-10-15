@@ -17,19 +17,21 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 
 - No local data files are required.
 
-The notebook builds a demonstration ABT from `nycflights13`. Completed outputs belong in `outputs` and are not included in the template.
+The notebook builds a demonstration route ABT from `nycflights13`. You apply the same documentation steps to your own project ABT separately, in your project repository. Completed outputs belong in `outputs` and are not included in the template.
 
 Expected outputs:
 
 - `outputs/route_abt_module11.csv`
 - `outputs/route_abt_data_dictionary_module11.csv`
-- `outputs/route_abt_validation_checklist_module11.csv`
+- `outputs/route_abt_validation_checklist_module11.csv` (re-exported with final status after the handoff audit)
 - `outputs/route_abt_handoff_audit_module11.csv`
 
 ## How to Work
 
+Expected time: about 2 to 2.5 hours.
+
 1. Create your own GitHub repository from this template.
-2. Use GitHub Codespaces as the main working environment. If you are technically experienced, you may use local conda + VS Code instead.
+2. You can work in GitHub Codespaces or in local VS Code. On the UTSA campus network Codespaces may not connect; use the local setup there (see the Canvas page on local setup).
 3. Install dependencies with `python -m pip install -r requirements.txt` if working locally.
 4. Open the notebooks in the order listed above.
 5. Run cells from top to bottom.
