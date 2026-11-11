@@ -23,7 +23,7 @@ Expected outputs:
 
 - `outputs/route_abt_module11.csv`
 - `outputs/route_abt_data_dictionary_module11.csv`
-- `outputs/route_abt_validation_checklist_module11.csv` (re-exported with final status after the handoff audit)
+- `outputs/route_abt_validation_checklist_module11.csv` (built from the handoff audit)
 - `outputs/route_abt_handoff_audit_module11.csv`
 
 ## How to Work
